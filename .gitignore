@@ -1,8 +1,9 @@
 20.out/*
 
-*.csv
 
 ~*
 
 
 ~$data_dictionary.ver.0.1.xlsx
+01.data/test.csv
+01.data/train.csv
